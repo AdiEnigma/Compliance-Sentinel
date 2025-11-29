@@ -31,3 +31,12 @@ dist/
 build/
 *.egg-info/
 
+# Compliance Sentinel specific
+data/originals/*
+!data/originals/.gitkeep
+data/audit_trails/*
+!data/audit_trails/.gitkeep
+data/memory_bank/*
+!data/memory_bank/.gitkeep
+*.zip
+

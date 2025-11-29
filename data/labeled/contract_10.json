@@ -1,0 +1,11 @@
+{
+  "document_type": "contract",
+  "pii_spans": [],
+  "violations": [
+    {
+      "rule_id": "CONTRACT_001",
+      "type": "policy_violation",
+      "severity": "high"
+    }
+  ]
+}

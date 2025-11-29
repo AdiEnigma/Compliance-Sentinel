@@ -1,0 +1,9 @@
+EMPLOYEE REQUEST FORM
+
+Employee Name: {name}
+Department: {department}
+Request Type: {request_type}
+
+MANAGER APPROVAL REQUIRED:
+Manager Signature: ___________________
+Date: {date}

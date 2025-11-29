@@ -1,0 +1,18 @@
+{
+  "document_type": "contract",
+  "pii_spans": [
+    {
+      "span_start": 83,
+      "span_end": 103,
+      "pii_type": "email",
+      "text": "john.doe@example.com"
+    },
+    {
+      "span_start": 112,
+      "span_end": 124,
+      "pii_type": "phone",
+      "text": "555-123-4567"
+    }
+  ],
+  "violations": []
+}

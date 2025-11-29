@@ -1,0 +1,9 @@
+COMPANY POLICY DOCUMENT
+
+Version: {version}
+Effective Date: {date}
+
+POLICY STATEMENT:
+{policy_text}
+
+This policy is subject to review and update.

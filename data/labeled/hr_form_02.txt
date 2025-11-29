@@ -1,0 +1,9 @@
+EMPLOYEE REQUEST FORM
+
+Employee Name: Employee 2
+Department: Engineering
+Request Type: Vacation Request
+
+MANAGER APPROVAL REQUIRED:
+Manager Signature: ___________________
+Date: 2025-11-29

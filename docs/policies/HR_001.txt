@@ -1,0 +1,9 @@
+POLICY: HR Form Manager Approval
+
+All HR forms and employee requests must include:
+- Manager approval field
+- Manager signature line
+- Date of approval
+
+Forms missing manager approval are non-compliant and require review before processing.
+

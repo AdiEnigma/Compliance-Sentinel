@@ -1,0 +1,9 @@
+POLICY: Policy Document Versioning
+
+All policy documents must include:
+- Version number (e.g., v1.0, v2.1)
+- Effective date
+- Review date (optional but recommended)
+
+Policy documents without version numbers cannot be tracked and must be updated.
+

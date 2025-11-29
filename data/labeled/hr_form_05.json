@@ -1,0 +1,10 @@
+{
+  "document_type": "hr_form",
+  "violations": [
+    {
+      "rule_id": "HR_001",
+      "type": "policy_violation",
+      "severity": "medium"
+    }
+  ]
+}

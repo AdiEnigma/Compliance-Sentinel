@@ -1,0 +1,13 @@
+INVOICE
+
+Invoice Number: INV-0004
+Date: 2025-11-29
+Bill To: Client Corp
+
+Items:
+Item 1: $100
+Item 2: $200
+
+Total Amount: $300
+
+TAX ID: TAX-000004

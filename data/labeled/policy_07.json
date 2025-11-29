@@ -1,0 +1,10 @@
+{
+  "document_type": "policy",
+  "violations": [
+    {
+      "rule_id": "POLICY_001",
+      "type": "policy_violation",
+      "severity": "medium"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "document_type": "invoice",
+  "violations": [
+    {
+      "rule_id": "INVOICE_001",
+      "type": "policy_violation",
+      "severity": "high"
+    }
+  ]
+}

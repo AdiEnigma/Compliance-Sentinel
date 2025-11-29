@@ -1,0 +1,9 @@
+POLICY: Invoice Tax Identification
+
+All invoices must include:
+- Tax identification number (TIN, EIN, or VAT number)
+- Tax ID format must be clearly labeled
+- Tax ID must be valid and verifiable
+
+Invoices without tax identification are non-compliant and cannot be processed for payment.
+

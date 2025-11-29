@@ -1,0 +1,10 @@
+POLICY: Contract Termination Clause
+
+All contracts must include a clear termination clause that specifies:
+- Conditions under which the contract may be terminated
+- Required notice period (minimum 30 days)
+- Process for termination
+- Consequences of termination
+
+Contracts without termination clauses are non-compliant and must be rejected or amended.
+

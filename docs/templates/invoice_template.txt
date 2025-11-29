@@ -1,0 +1,12 @@
+INVOICE
+
+Invoice Number: {invoice_number}
+Date: {date}
+Bill To: {company}
+
+Items:
+{items}
+
+Total Amount: ${amount}
+
+TAX ID: {tax_id}
