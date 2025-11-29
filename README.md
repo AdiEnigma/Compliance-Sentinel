@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/images/cover.png" alt="Compliance Sentinel" width="800"/>
+</div>
+
 # Compliance Sentinel
 
 **A multi-agent document compliance auditing system that automatically detects violations, proposes fixes, and makes approval decisions.**
